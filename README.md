@@ -146,13 +146,13 @@ except TimeoutError:
 
 
 [docs]: http://pyddp.readthedocs.org/en/latest/ "pyddp documentation"
-[downloads badge]: https://pypip.in/download/pyddp/badge.svg "Downloads"
+[downloads badge]: https://img.shields.io/pypi/dm/pyddp.svg "Downloads"
 [egg badge]: https://pypip.in/egg/pyddp/badge.svg "Egg Status"
-[license badge]: https://pypip.in/license/pyddp/badge.svg "License"
+[license badge]: https://img.shields.io/pypi/l/pyddp.svg "License"
 [travisci]:https://travis-ci.org/foxdog-studios/pyddp "Continuous Integration"
 [travisci badge]: https://travis-ci.org/foxdog-studios/pyddp.svg "Build Status"
 [meteor]: https://www.meteor.com/ "Meteor"
 [pypi]: https://pypi.python.org/pypi/pyddp/ "pydpp on PyPI"
-[version badge]: https://pypip.in/version/pyddp/badge.svg "Latest Version"
+[version badge]: https://img.shields.io/pypi/v/pyddp.svg "Latest Version"
 [virtualenv]: http://virtualenv.readthedocs.org/en/latest/ "virtualenv"
-[wheel badge]: https://pypip.in/wheel/pyddp/badge.svg "Wheel Status"
+[wheel badge]: https://img.shields.io/pypi/wheel/pyddp.svg "Wheel Status"
